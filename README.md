@@ -1,2 +1,2 @@
 # Projects-
-These Are the projects Which were built using Django
+These Are the projects which were built using Django Framework
